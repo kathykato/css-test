@@ -106,7 +106,7 @@ p.lead {
 
 .container {
   margin: 0 auto;
-  width: 75rem;
+  width: 67.5rem;
   max-width: 100%;
 }
 
@@ -155,7 +155,8 @@ p.lead {
   padding: 0 1rem;
 }
 
-.features {
+.features,
+.news {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
